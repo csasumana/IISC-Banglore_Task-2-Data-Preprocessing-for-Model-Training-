@@ -13,3 +13,4 @@ Converted TF-IDF features to a dense array and created a new dataframe
 Then concated category column into this new dataframe 
 Finally created a csv file with the final dataframe 
 Excel generally can't support this large csv file. Some data may get missed.
+The final csv file size is more than 25 mb so unable to upload directly so sharing a link from goodle drive 
